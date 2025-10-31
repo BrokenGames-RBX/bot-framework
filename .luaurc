@@ -1,0 +1,19 @@
+{
+  "aliases": {
+    "lune": "~/.lune/.typedefs/0.10.4/",
+    "lune_packages": "lune_packages",
+
+    "DiscordLuau": "DiscordLuau/Package",
+
+    "commands": "src/commands",
+    "constructors": "src/constructors",
+    "events": "src/events",
+    "exports": "src/exports",
+    "utils": "src/utils",
+    "vendor": "src/vendor",
+
+    "config": "src/config",
+    "env": "src/env",
+    "flags": "src/flags"
+  }
+}

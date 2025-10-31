@@ -1,0 +1,15 @@
+name = "brokengames/bot_framework"
+version = "0.1.0"
+description = "a discord luau bot framework"
+authors = ["Primiti_ve"]
+repository = "https://github.com/BrokenGames-RBX/bot-framework"
+license = "MIT"
+
+[target]
+environment = "lune"
+
+[indices]
+default = "https://github.com/pesde-pkg/index"
+
+[dependencies]
+rl = { name = "wiam/rl", version = "^0.1.10" }
